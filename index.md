@@ -1,0 +1,239 @@
+---
+layout: default
+---
+
+<section class="hero hero--home">
+	<div class="container hero--footer">
+		<section class="hero--home-social">
+			<div>
+				<a href="#">
+					<span class="icon">
+						<i class="fab fa-facebook-f"></i>
+					</span>
+				</a>
+				<a href="#">
+					<span class="icon">
+						<i class="fab fa-twitter"></i>
+					</span>
+				</a>
+				<a href="#">
+					<span class="icon">
+						<i class="fab fa-instagram"></i>
+					</span>
+				</a>
+			</div>
+		</section>
+		<section class="hero__intro">
+			<div class="hero__intro__content bg-transparent--dark">
+			  <p class="subtitle">
+			    Welcome To
+			  </p>
+			  <hr>
+			  <h1 class="hero__title">
+			    The Grande Hotel<br>South Beach
+			  </h1>
+			</div>
+		</section>
+		<section class="hero--home-links">
+			<div>
+				<a href="#"><i class="fas fa-plus"></i> Subscribe</a>
+				<a href="#"><i class="fas fa-map-marker"></i> Location</a>
+			</div>
+		</section>
+	</div>
+</section>
+
+<!-- <section class="container section--basic">
+	offset style not used
+	<div class="section--2col--offset">
+		<div class="section--2col--offset__col1 image--cover">
+			<img src="assets/images/paradise.jpg">
+		</div>
+		<div class="section--2col--offset__col2">
+			<div class="section--2col__content">
+				<h5 class="subtitle">Welcome To</h5>
+				<h2 class="title text-primary">Paradise</h2>
+				<p class="text-block">Lorem ipsum dolor sit amet, cotetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+				<a href="#" class="text-link">Discover</a>
+			</div>
+		</div>
+	</div> 
+</section> -->
+
+<section class="section--2col--listing listing--style-3">
+	<div class="container">
+		<div class="section--2col--listing__image">
+			<img src="assets/images/paradise-2.jpg">
+		</div>
+		<div class="section--2col--listing__content">
+			<h5>Welcome To</h5>
+			<h3>Paradise</h3>
+			<hr>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<a href="#" class="text-link">Discover</a>
+		</div>
+	</div>
+</section>
+
+<section class="container section--basic--fullpad">
+	<h2 class="section__heading has-text-centered">Special Offers</h2>
+	<section class="offer-listing offer-listing--fullsize">
+		<div class="card card--style-3">
+			<div class="card__image">
+				<div class="button-wrapper">
+					<a href="#" role="button" class="button button--secondary">Book Offer</a>
+				</div>
+				<img src="/assets/images/offer-2.jpg">
+			</div>
+			<div class="card__content">
+				<h5>Save up to 10%</h5>
+				<h4>Ocean Escape</h4>
+				<a href="#" class="text-link">View Offer</a>
+			</div>
+		</div>
+	</section>
+	<section class="slider-control-arrows">
+		<div class="slider-control-arrows__button icon-box light">
+			<i class="fas fa-arrow-left"></i>
+		</div>
+		<div class="slider-control-arrows__button icon-box light">
+			<i class="fas fa-arrow-right"></i>
+		</div>
+	</section>
+</section>
+
+<!-- OLD room slider -- in room-slider-not-used.html
+<section class="bg--dark">
+	<section class="section--basic container">
+		<h2 class="has-text-centered section__heading">Featured Rooms</h2>
+		<room-slider></room-slider>
+		<div class="has-text-centered room--listing_footer">
+			<a href="#" class="text-link text-link--light">View All Rooms</a>
+		</div>
+	</section>
+</section> -->
+
+<section class="cta cta--slider cta--bordered exhibitions-slider">
+	<div class="container">
+		<section class="slider-control-arrows">
+			<div class="slider-control-arrows__button icon-box light">
+				<i class="fas fa-arrow-left"></i>
+			</div>
+		</section>
+		<div class="cta__center">
+			<div class="cta__content bg-transparent--light">
+				<h5>Tonight's Rate <span>$585</span></h5>
+				<h2>Standard Room</h2>
+				<hr>
+				<div class="room--listing__details small">
+					<div>
+						2
+						<i class="fas fa-bed"></i>
+					</div>
+					<div>
+						max 2
+						<i class="far fa-user"></i>
+					</div>
+					<div>
+						Size: 980 Sq. Ft.
+					</div>
+				</div>
+				<a href="#" class="button button--secondary" role="button">Discover</a>
+			</div>
+		</div>
+		<section class="slider-control-arrows next">
+			<div class="slider-control-arrows__button icon-box light">
+				<i class="fas fa-arrow-right"></i>
+			</div>
+		</section>
+	</div>
+</section>
+
+<section class="restaurant--callout section--basic container">
+	<section class="section__header-blurb">
+		<div class="section__header-blurb__heading">
+			<h5>Eat & Drink</h5>
+			<h2>Restaurant</h2>
+		</div>
+		<div class="section__header-blurb__blurb">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> 
+			<a href='/restaurant' class="text-link">Discover</a>
+		</div>
+	</section>
+	<section class="section--2col--image-offset">
+		<div class="section--2col--image-offset__image">
+			<img src="/assets/images/restaurant-1.jpg">
+		</div>
+		<div class="section--2col--image-offset__image">
+			<img src="/assets/images/restaurant-1.jpg">
+		</div>
+	</section>
+</section>
+
+<section class="location--callout section--basic container">
+	<section class="section__header-blurb section__header-blurb--heading-right">
+		<div class="section__header-blurb__heading">
+			<h5>Our Location</h5>
+			<h2>South Beach</h2>
+		</div>
+		<div class="section__header-blurb__blurb">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> 
+			<a href='/restaurant' class="text-link">Discover</a>
+		</div>
+	</section>
+	<section class="location--callout__image">
+		<img src="assets/images/location-1.jpg">
+	</section>
+</section>
+
+<section class="callout--map">
+	<p class="subtitle text-on-border container is-hidden-small"><span>Find us on the map</span></p>
+	<img src="assets/images/LightMap.jpg" class="image-fluid">
+</section>
+
+<section class="callout--events section--basic container">
+	<h2 class="has-text-centered text-primary callout--events__heading section__heading">What's On</h2>
+	<section class="section--2col">
+		<div class="card">
+			<div class="card__image">
+				<a href="#" role="button" class="button button--secondary">Book Offer</a> 
+				<img src="/assets/images/event-1.jpg">
+			</div>
+			<div class="card__content">
+				<h5>14 April 2018 | 6PM - 8PM</h5>
+				<h4>Cocktail Workshop</h4>
+				<div class="button-wrapper">
+					<a href="#" class="text-link">View Event</a>
+				</div>
+			</div>
+		</div>
+		<div class="card">
+			<div class="card__image">
+				<a href="#" role="button" class="button button--secondary">Book Offer</a> 
+				<img src="/assets/images/event-1.jpg">
+			</div>
+			<div class="card__content">
+				<h5>14 April 2018 | 6PM - 8PM</h5>
+				<h4>Cocktail Workshop</h4>
+				<div class="button-wrapper">
+					<a href="#" class="text-link">View Event</a>
+				</div>
+			</div>
+		</div>
+	</section>
+</section>
+
+<section class="cta cta--splash cta--bordered" style="background-image:url('/assets/images/splash-1.jpg');">
+	<div class="container">
+		<div class="splash__content">
+			<img src="/ttio_templates/ivy-beach/assets/images/logo-large-white.png" class="cta--splash__top-image"> 
+			<h1 class="text-dark">Beach Paradise</h1>
+			<h5 class="splash__subtitle subtitle">The Grande Hotel Miami</h5>
+			<a href="#" role="button" class="button--secondary">Book Now</a>
+		</div>
+	</div>
+</section>
+
+{% include instagram.html %}
+{% include newsletter-signup.html %}
+{% include footer.html %}

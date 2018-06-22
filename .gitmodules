@@ -1,0 +1,9 @@
+[submodule "_ttio_templates/bedrock"]
+	path = _ttio_templates/bedrock
+	url = https://github.com/TravelTripperWeb-Sites/_ttio_templates-bedrock.git
+[submodule "_ttio_templates/ivy-beach"]
+	path = _ttio_templates/ivy-beach
+	url = https://github.com/TravelTripperWeb-Sites/_ttio-templates-ivy-beach.git
+[submodule "_plugins-core"]
+	path = _plugins-core
+	url = https://github.com/TravelTripperWeb/cms-jekyll-plugins.git
