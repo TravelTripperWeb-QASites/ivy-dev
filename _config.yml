@@ -1,5 +1,5 @@
 plugins_dir:
-  - _plugins-core
+  - _plugins-38
   - _plugins
 
 i18n_dir:

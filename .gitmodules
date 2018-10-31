@@ -1,9 +1,12 @@
 [submodule "_ttio_templates/bedrock"]
 	path = _ttio_templates/bedrock
 	url = https://github.com/TravelTripperWeb-Sites/_ttio_templates-bedrock.git
-[submodule "_ttio_templates/ivy-beach"]
-	path = _ttio_templates/ivy-beach
-	url = https://github.com/TravelTripperWeb-Sites/_ttio-templates-ivy-beach.git
+[submodule "_ttio_templates/ivy"]
+	path = _ttio_templates/ivy
+	url = https://github.com/TravelTripperWeb-Sites/_ttio_templates-ivy.git
 [submodule "_plugins-core"]
 	path = _plugins-core
 	url = https://github.com/TravelTripperWeb/cms-jekyll-plugins.git
+[submodule "_plugins-38"]
+	path = _plugins-38
+	url = https://github.com/TravelTripperWeb/cms-jekyll-3-8-plugins.git
