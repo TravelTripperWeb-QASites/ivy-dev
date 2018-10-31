@@ -4,29 +4,29 @@ plugins_dir:
 
 i18n_dir:
   - _ttio_templates/bedrock/_locales
-  - _ttio_templates/ivy-beach/_locales
+  - _ttio_templates/ivy/_locales
   - _locales
 
 layouts_dir:
   - _ttio_templates/bedrock/_layouts
-  - _ttio_templates/ivy-beach/_layouts
+  - _ttio_templates/ivy/_layouts
   - _layouts
   
 data_dir: 
   - _ttio_templates/bedrock/_data
-  - _ttio_templates/ivy-beach/_data
+  - _ttio_templates/ivy/_data
   - _data
   
 includes_dir:
   - _includes
-  - _ttio_templates/ivy-beach/_includes
+  - _ttio_templates/ivy/_includes
   - _ttio_templates/bedrock/_includes
   
 
 
 
 # Site Settings
-title: "Ivy Beach"
+title: "IVY"
 title_separator: "|"
 name: "Hotel Property Name"
 description: "Site default description."
@@ -83,12 +83,12 @@ keep_files:
   - .git
   - assets
   - ttio_templates/bedrock/assets
-  - ttio_templates/ivy-beach/assets
+  - ttio_templates/ivy/assets
   
 rsync_copy:
   - _assets
   - _ttio_templates/bedrock/assets
-  - _ttio_templates/ivy-beach/assets
+  - _ttio_templates/ivy/assets
   
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
