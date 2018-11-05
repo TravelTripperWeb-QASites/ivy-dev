@@ -1,5 +1,9 @@
 [
   {
     "_template": "2_col"
+  },
+  {
+    "content": "<p>h</p>",
+    "_template": "html"
   }
 ]
