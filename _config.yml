@@ -83,11 +83,13 @@ keep_files:
   - .git
   - assets
   - ttio_templates/bedrock/assets
+  - ttio_templates/zom/assets
   - ttio_templates/ivy/assets
   
 rsync_copy:
   - _assets
   - _ttio_templates/bedrock/assets
+  - _ttio_templates/zom/assets
   - _ttio_templates/ivy/assets
   
 encoding: "utf-8"
