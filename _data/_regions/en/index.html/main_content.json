@@ -1,11 +1,8 @@
 [
   {
-    "_template": "2_col",
-    "col1_html": {
-      "content": "<p>Test</p>"
-    },
     "col2_html": {
-      "content": "<p>oih</p>"
-    }
+      "style": "light"
+    },
+    "_template": "html"
   }
 ]
