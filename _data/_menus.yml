@@ -1,0 +1,8 @@
+---
+main:
+  name: Top Menu
+  description: Main Site Navigation
+  depth: 1
+  items:
+  - page_id: index.html
+  - page_id: _pages/about.html
