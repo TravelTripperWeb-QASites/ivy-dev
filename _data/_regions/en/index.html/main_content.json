@@ -1,8 +1,6 @@
 [
   {
-    "col2_html": {
-      "style": "light"
-    },
-    "_template": "html"
+    "_template": "html",
+    "content": "<p>New HTML Content</p>"
   }
 ]
